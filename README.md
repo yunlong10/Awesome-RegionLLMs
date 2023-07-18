@@ -13,9 +13,6 @@
 - **Kosmos-2: Grounding Multimodal Large Language Models to the World**\
   `arXiv 06/2023` [[paper]](https://arxiv.org/abs/2306.14824)
 
-- **Language Is Not All You Need: Aligning Perception with Language Models**\
-  `arXiv 02/2023` [[paper]](https://arxiv.org/abs/2302.14045)
-
 ### Point Location
 
 - **Shikra: Unleashing Multimodal LLM's Referential Dialogue Magic**\
