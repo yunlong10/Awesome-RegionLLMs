@@ -11,7 +11,7 @@
   `arXiv 07/2023` [[paper]](https://arxiv.org/abs/2306.15195)
 
 - **Kosmos-2: Grounding Multimodal Large Language Models to the World**\
-  `arXiv 06/2023` [[paper]](https://arxiv.org/abs/2306.14824)https://arxiv.org/abs/2306.14824
+  `arXiv 06/2023` [[paper]](https://arxiv.org/abs/2306.14824)
 
 ### Point Location
 
