@@ -4,7 +4,7 @@
 
 ### Regional Location
 - **BuboGPT: Enabling Visual Grounding in Multi-Modal LLMs**\
-  `arXiv 07/2023` [[paper]](https://arxiv.org/abs/2307.08581)
+  `arXiv 07/2023` [[paper]](https://arxiv.org/abs/2307.08581) [[code]](https://github.com/magic-research/bubogpt)
   
 - **GPT4RoI: Instruction Tuning Large Language Model on Region-of-Interest**\
   `arXiv 07/2023` [[paper]](https://arxiv.org/abs/2307.03601)
