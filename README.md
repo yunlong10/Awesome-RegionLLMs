@@ -13,17 +13,17 @@
   `arXiv 07/2023` [[paper]](https://arxiv.org/abs/2306.15195) [[code]](https://github.com/shikras/shikra)
 
 - **Kosmos-2: Grounding Multimodal Large Language Models to the World**\
-  `arXiv 06/2023` [[paper]](https://arxiv.org/abs/2306.14824)
+  `arXiv 06/2023` [[paper]](https://arxiv.org/abs/2306.14824) [[code]](https://github.com/microsoft/unilm/tree/master/kosmos-2)
 
 ### Point Location
 
 - **Shikra: Unleashing Multimodal LLM's Referential Dialogue Magic**\
-  `arXiv 07/2023` [[paper]](https://arxiv.org/abs/2306.15195)
+  `arXiv 07/2023` [[paper]](https://arxiv.org/abs/2306.15195) [[code]](https://github.com/shikras/shikra)
 
 ### Temporal Location
 
 - **Vid2Seq: Large-Scale Pretraining of a Visual Language Model for Dense Video Captioning**\
-  `CVPR 2023` [[paper]](https://arxiv.org/abs/2302.14115)
+  `CVPR 2023` `` [[paper]](https://arxiv.org/abs/2302.14115)
 
 - **ChatVideo: A Tracklet-centric Multimodal and Versatile Video Understanding System**\
   `arXiv 04/2023` [[paper]](https://arxiv.org/abs/2304.14407)
