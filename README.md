@@ -10,7 +10,7 @@
   `arXiv 07/2023` [[paper]](https://arxiv.org/abs/2307.03601) [[code]](https://github.com/jshilong/gpt4roi)
 
 - **Shikra: Unleashing Multimodal LLM's Referential Dialogue Magic**\
-  `arXiv 07/2023` [[paper]](https://arxiv.org/abs/2306.15195) [code]
+  `arXiv 07/2023` [[paper]](https://arxiv.org/abs/2306.15195) [[code]](https://github.com/shikras/shikra)
 
 - **Kosmos-2: Grounding Multimodal Large Language Models to the World**\
   `arXiv 06/2023` [[paper]](https://arxiv.org/abs/2306.14824)
