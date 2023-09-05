@@ -1,8 +1,10 @@
 # Awesome-RegionLLMs [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-## Spatial
+## Models
 
-### Bounding Box
+- **LISA: Reasoning Segmentation via Large Language Model**\
+  `arXiv  08/2023` [[paper]](https://arxiv.org/abs/2308.00692) [[code]](https://github.com/dvlab-research/lisa)
+  
 - **BuboGPT: Enabling Visual Grounding in Multi-Modal LLMs**\
   `arXiv 07/2023` [[paper]](https://arxiv.org/abs/2307.08581) [[code]](https://github.com/magic-research/bubogpt)
   
@@ -15,17 +17,22 @@
 - **Kosmos-2: Grounding Multimodal Large Language Models to the World**\
   `arXiv 06/2023` [[paper]](https://arxiv.org/abs/2306.14824) [[code]](https://github.com/microsoft/unilm/tree/master/kosmos-2)
 
-### Point
-
-- **Shikra: Unleashing Multimodal LLM's Referential Dialogue Magic**\
-  `arXiv 07/2023` [[paper]](https://arxiv.org/abs/2306.15195) [[code]](https://github.com/shikras/shikra)
-
-## Temporal
-
-- **Vid2Seq: Large-Scale Pretraining of a Visual Language Model for Dense Video Captioning**\
-  `CVPR 2023` `arXiv 02/2023` [[paper]](https://arxiv.org/abs/2302.14115) [[code]](https://github.com/google-research/scenic/tree/main/scenic/projects/vid2seq)
-
 - **ChatVideo: A Tracklet-centric Multimodal and Versatile Video Understanding System**\
   `arXiv 04/2023` [[paper]](https://arxiv.org/abs/2304.14407)
 
+- **VideoChat: Chat-Centric Video Understanding**\
+  `arXiv 05/2023` [[paper]](https://arxiv.org/abs/2305.06355) [[code]](https://github.com/opengvlab/ask-anything)
+
+- **Caption Anything: Interactive Image Description with Diverse Multimodal Controls**\
+  `arXiv 05/2023` [[paper]](https://arxiv.org/abs/2305.02677) [[code]](https://github.com/ttengwang/caption-anything)
+
+- **RegionBLIP: A Unified Multi-modal Pre-training Framework for Holistic and Regional Comprehension**\
+  `arXiv 08/2023` [[paper]](https://arxiv.org/abs/2308.02299) [[code]](https://github.com/mightyzau/regionblip)
+
+- **OmniDataComposer: A Unified Data Structure for Multimodal Data Fusion and Infinite Data Generation**\
+  `arXiv 08/2023` [[paper]](https://arxiv.org/abs/2308.04126) [[code]](https://github.com/shajiayu1/OmniDataComposer)
+
 ## Task & Dataset
+- RefCOCO/RefCOCOg/RefCOCO+
+- Visual Genome
+- Flickr30k
