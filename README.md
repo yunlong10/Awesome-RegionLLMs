@@ -1,8 +1,8 @@
-# Awesome-Location-Aware-Multimodal-Large-Language-Model [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome-RegionLLMs [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-## Location Aware MLLMs
+## Spatial
 
-### Regional Location
+### Bounding Box
 - **BuboGPT: Enabling Visual Grounding in Multi-Modal LLMs**\
   `arXiv 07/2023` [[paper]](https://arxiv.org/abs/2307.08581) [[code]](https://github.com/magic-research/bubogpt)
   
@@ -15,12 +15,12 @@
 - **Kosmos-2: Grounding Multimodal Large Language Models to the World**\
   `arXiv 06/2023` [[paper]](https://arxiv.org/abs/2306.14824) [[code]](https://github.com/microsoft/unilm/tree/master/kosmos-2)
 
-### Point Location
+### Point
 
 - **Shikra: Unleashing Multimodal LLM's Referential Dialogue Magic**\
   `arXiv 07/2023` [[paper]](https://arxiv.org/abs/2306.15195) [[code]](https://github.com/shikras/shikra)
 
-### Temporal Location
+## Temporal
 
 - **Vid2Seq: Large-Scale Pretraining of a Visual Language Model for Dense Video Captioning**\
   `CVPR 2023` `arXiv 02/2023` [[paper]](https://arxiv.org/abs/2302.14115) [[code]](https://github.com/google-research/scenic/tree/main/scenic/projects/vid2seq)
