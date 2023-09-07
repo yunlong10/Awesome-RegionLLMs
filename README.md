@@ -29,6 +29,9 @@
 - **RegionBLIP: A Unified Multi-modal Pre-training Framework for Holistic and Regional Comprehension**\
   `arXiv 08/2023` [[paper]](https://arxiv.org/abs/2308.02299) [[code]](https://github.com/mightyzau/regionblip)
 
+- **Qwen-VL: A Frontier Large Vision-Language Model with Versatile Abilities**\
+  `arXiv 08/2023` [[paper]](https://arxiv.org/abs/2308.12966) [[code]](https://github.com/qwenlm/qwen-vl)
+
 - **OmniDataComposer: A Unified Data Structure for Multimodal Data Fusion and Infinite Data Generation**\
   `arXiv 08/2023` [[paper]](https://arxiv.org/abs/2308.04126) [[code]](https://github.com/shajiayu1/OmniDataComposer)
 
