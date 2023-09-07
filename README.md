@@ -2,6 +2,9 @@
 
 ## Models
 
+- **Position-Enhanced Visual Instruction Tuning for Multimodal Large Language Models**\
+  `arXiv 08/2023` [[paper]](https://arxiv.org/abs/2308.13437) [[code]](https://www.catalyzex.com/paper/arxiv:2308.13437/code)
+
 - **LISA: Reasoning Segmentation via Large Language Model**\
   `arXiv  08/2023` [[paper]](https://arxiv.org/abs/2308.00692) [[code]](https://github.com/dvlab-research/lisa)
   
