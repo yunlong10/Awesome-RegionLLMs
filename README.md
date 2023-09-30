@@ -35,17 +35,20 @@
 - **VideoChat: Chat-Centric Video Understanding**\
   `arXiv 05/2023` [[paper]](https://arxiv.org/abs/2305.06355) [[code]](https://github.com/opengvlab/ask-anything)
 
+- **Contextual Object Detection with Multimodal Large Language Models**\
+  `arXiv 05/2023` [[paper]](https://arxiv.org/abs/2305.18279) [[code]](https://github.com/yuhangzang/contextdet)
+
 - **Caption Anything: Interactive Image Description with Diverse Multimodal Controls**\
   `arXiv 05/2023` [[paper]](https://arxiv.org/abs/2305.02677) [[code]](https://github.com/ttengwang/caption-anything)
 
 - **ChatVideo: A Tracklet-centric Multimodal and Versatile Video Understanding System**\
   `arXiv 04/2023` [[paper]](https://arxiv.org/abs/2304.14407)
 
-- **PolyFormer: Referring Image Segmentation as Sequential Polygon Generation**\
-  `arXiv 02/2023` [[paper]](https://arxiv.org/abs/2302.07387) [[code]](https://github.com/amazon-science/polygon-transformer)
-
 - **What does CLIP know about a red circle? Visual prompt engineering for VLMs**\
   `arXiv 04/2023` [[paper]](https://arxiv.org/abs/2304.06712)
+
+- **PolyFormer: Referring Image Segmentation as Sequential Polygon Generation**\
+  `arXiv 02/2023` [[paper]](https://arxiv.org/abs/2302.07387) [[code]](https://github.com/amazon-science/polygon-transformer)
 
 ## Task & Dataset
 - RefCOCO/RefCOCOg/RefCOCO+
