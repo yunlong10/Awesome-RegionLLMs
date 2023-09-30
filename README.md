@@ -44,6 +44,9 @@
 - **OmniDataComposer: A Unified Data Structure for Multimodal Data Fusion and Infinite Data Generation**\
   `arXiv 08/2023` [[paper]](https://arxiv.org/abs/2308.04126) [[code]](https://github.com/shajiayu1/OmniDataComposer)
 
+- **PolyFormer: Referring Image Segmentation as Sequential Polygon Generation**\
+  `arXiv 02/2023` [[paper]](https://arxiv.org/abs/2302.07387) [[code]](https://github.com/amazon-science/polygon-transformer)
+
 ## Task & Dataset
 - RefCOCO/RefCOCOg/RefCOCO+
 - Visual Genome
