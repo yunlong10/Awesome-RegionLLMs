@@ -21,7 +21,10 @@
   `arXiv 06/2023` [[paper]](https://arxiv.org/abs/2306.14824) [[code]](https://github.com/microsoft/unilm/tree/master/kosmos-2)
   
 - **What does CLIP know about a red circle? Visual prompt engineering for VLMs**\
-  [[paper]](https://arxiv.org/abs/2304.06712)
+  `arXiv 04/2023` [[paper]](https://arxiv.org/abs/2304.06712)
+  
+- **VisorGPT: Learning Visual Prior via Generative Pre-Training**\
+  `arXiv 05/2023` [[paper]](https://arxiv.org/abs/2305.13777) [[code]](https://github.com/Sierkinhane/VisorGPT)
 
 - **ChatVideo: A Tracklet-centric Multimodal and Versatile Video Understanding System**\
   `arXiv 04/2023` [[paper]](https://arxiv.org/abs/2304.14407)
